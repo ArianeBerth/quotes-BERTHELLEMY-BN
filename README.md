@@ -12,5 +12,5 @@ A python program that generates programming quotes and jokes.
 
 ## Fork urls
 - `contributor-1`: [quotes-bar-b](url-1)
-- `contributor-2`: [quotes-wizz-b](url-2)
+- `contributor-2`: [quotes-BERTHELLEMY-BN]([url-2](https://github.com/ArianeBerth/quotes-BERTHELLEMY-BN.git))
 - `contributor-3`: [quotes-toto-b](url-3)
